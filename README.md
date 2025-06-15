@@ -123,5 +123,9 @@ git pull
 Fetch and merge from the tracking remote branch.
 
 ---
-
 > 📘 **Tip:** Use `git help [command]` to get help for any Git command.
+## 🙌 Contributing
+
+Feel free to fork the repo, add examples, improve formatting, or add new features. Pull requests are welcome!
+
+
